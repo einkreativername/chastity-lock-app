@@ -1,3 +1,0 @@
-= SPEC-001: Chastity Lock Platform
-
-// Full spec to be added here
